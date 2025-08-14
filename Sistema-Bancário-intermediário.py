@@ -151,10 +151,12 @@ def main():
             listar_contas(contas)
 
         elif opcao == "0":
+            print("Obrigado por utilizar nossos serviços.")
             break
 
         else:
             print("Operação inválida, por favor selecione novamente a operação desejada.")
+
 
 
 main()  
